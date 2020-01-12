@@ -1,0 +1,3 @@
+
+github dont give us space for dataset download model and paste it into this same folder by using link below
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
